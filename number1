@@ -1,0 +1,4 @@
+##format函数 用于填充字符串
+  
+age='{}'.format('18')
+print (age)
